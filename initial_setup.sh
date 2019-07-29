@@ -88,4 +88,3 @@ wget https://raw.github.com/darkoperator/powershell_scripts/master/ps_encoder.py
 # Install Responder (for getting NTLM challenge/response hashes)
 cd /opt
 git clone https://github.com/SpiderLabs/Responder.git
-
